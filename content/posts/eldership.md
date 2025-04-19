@@ -29,6 +29,17 @@ A good place to start is with a prayer.
 
 > Father God, please guide me in this study and help me to put past feelings behind so that they won't twist my understanding now. Give me wisdom and a godly understanding of the eldership so that I may not hinder this church in the pursuit of good leadership. In Jesus' name I pray, amen.
 
+The basic passages I'll read:
+
+	- 1 Peter 5:1-5
+	- Acts 20:17-38
+	- 1 Tim 3:1-7
+	- Titus 1:5-9
+	- Hebrews 13:7, 17
+	- Ephesians 4:11
+	- Acts 14:21-23
+	- Acts 11:30
+
 ### Paul's Farewell to the Ephesian Elders
 
 >^**17**^ From Miletus he sent to Ephesus and called to himself the elders of the assembly. ^**18**^ When they had come to him, he said to them, “You yourselves know, from the first day that I set foot in Asia, how I was with you all the time, ^**19**^ serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews; ^**20**^ how I didn’t shrink from declaring to you anything that was profitable, teaching you publicly and from house to house, ^**21**^ testifying both to Jews and to Greeks repentance toward God and faith toward our Lord Jesus. ^**22**^ Now, behold, I go bound by the Spirit to Jerusalem, not knowing what will happen to me there; ^**23**^ except that the Holy Spirit testifies in every city, saying that bonds and afflictions wait for me. ^**24**^ But these things don’t count; nor do I hold my life dear to myself, so that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to fully testify to the Good News of the grace of God.
@@ -37,7 +48,16 @@ A good place to start is with a prayer.
 >
 >^**36**^ When he had spoken these things, he knelt down and prayed with them all. ^**37**^ They all wept freely, and fell on Paul’s neck and kissed him, ^**38**^ sorrowing most of all because of the word which he had spoken, that they should see his face no more. Then they accompanied him to the ship. **— Acts 20:17-38**
 
-#### Summary
+#### Takeaway
 Aside from the scene, Paul gives the elders a couple of lines of instruction: *"Pay attention to and shepherd your flock from the wolves that will come, even from among you, drawing disciples away. Watch -- my example is unceasing -- don't let your guard down and don't give up.* Concerning the role of elders, this passage boils down to earnest defense of the word of God and correct understanding of it within the group they have purview over.
 
-###
+### Peter's Exhortation
+
+> ^**1**^ Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed: ^**2**^ shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily; not for dishonest gain, but willingly; ^**3**^ not as lording it over those entrusted to you, but making yourselves examples to the flock. ^**4**^ When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away.
+>
+> ^**5**^ Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility and subject yourselves to one another; for “God resists the proud, but gives grace to the humble.” **– 1 Peter 5:1-5**
+
+#### Takeaway
+
+Adding to Paul's instruction that elders should be vigilant defenders, Peter clarifies that elders must not "lord it over" (or, as I read it, "boss around") their flock. They don't tell us what to do, but they do show us the way and drive out those who are a detriment to good faith.
+
