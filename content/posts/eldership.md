@@ -7,7 +7,7 @@ images:
 tags:
   - untagged
 ---
-My church is beginning the process of searching out men to serve as new elders alongside the eldership we've had for the past ^**11**^ years. This congregation has not had to consider this issue to my knowledge for at least that long, so the sermon today started a series of studies that will refresh us on why we need an eldership and who we should look for to fill that role.
+My church is beginning the process of searching out men to serve as new elders alongside the eldership we've had for the past 11 years. This congregation has not had to consider this issue to my knowledge for at least that long, so the sermon today started a series of studies that will refresh us on why we need an eldership and who we should look for to fill that role.
 
 I attended one church regularly in the past that did not have elders; they were goverened by a "men's meeting" that was more or less democratic. This isn't a biblical concept, but it's usually justified by the necessity to have _some_ leadership when a congregation lacks willing, able, and/or qualified men to take the elder's office. That church never attempted to appoint elders while I was there, and, actually, I think I've managed not to be present when any of my childhood congregations went through the process. (Maybe once, but not that I can confidently say was the appointment of a new elder.)
 
@@ -29,7 +29,7 @@ A good place to start is with a prayer.
 
 > Father God, please guide me in this study and help me to put past feelings behind so that they won't twist my understanding now. Give me wisdom and a godly understanding of the eldership so that I may not hinder this church in the pursuit of good leadership. In Jesus' name I pray, amen.
 
-Review the following passages:
+### Paul's Farewell to the Ephesian Elders
 
 >^**17**^ From Miletus he sent to Ephesus and called to himself the elders of the assembly. ^**18**^ When they had come to him, he said to them, “You yourselves know, from the first day that I set foot in Asia, how I was with you all the time, ^**19**^ serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews; ^**20**^ how I didn’t shrink from declaring to you anything that was profitable, teaching you publicly and from house to house, ^**21**^ testifying both to Jews and to Greeks repentance toward God and faith toward our Lord Jesus. ^**22**^ Now, behold, I go bound by the Spirit to Jerusalem, not knowing what will happen to me there; ^**23**^ except that the Holy Spirit testifies in every city, saying that bonds and afflictions wait for me. ^**24**^ But these things don’t count; nor do I hold my life dear to myself, so that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to fully testify to the Good News of the grace of God.
 >
@@ -37,3 +37,7 @@ Review the following passages:
 >
 >^**36**^ When he had spoken these things, he knelt down and prayed with them all. ^**37**^ They all wept freely, and fell on Paul’s neck and kissed him, ^**38**^ sorrowing most of all because of the word which he had spoken, that they should see his face no more. Then they accompanied him to the ship. **— Acts 20:17-38**
 
+#### Summary
+Aside from the scene, Paul gives the elders a couple of lines of instruction: *"Pay attention to and shepherd your flock from the wolves that will come, even from among you, drawing disciples away. Watch -- my example is unceasing -- don't let your guard down and don't give up.* Concerning the role of elders, this passage boils down to earnest defense of the word of God and correct understanding of it within the group they have purview over.
+
+###
