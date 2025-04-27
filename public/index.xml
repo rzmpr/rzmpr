@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R. Cain Porfolio and Blog on Shrewsbury, Pennsylvania</title>
+    <title>Personal Portfolio and Blog</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in R. Cain Porfolio and Blog on Shrewsbury, Pennsylvania</description>
+    <description>Recent content on Personal Portfolio and Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 06 Apr 2025 18:35:33 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 10:39:39 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authority</title>
+      <link>//localhost:1313/posts/authority/</link>
+      <pubDate>Sat, 26 Apr 2025 10:39:39 -0400</pubDate>
+      <guid>//localhost:1313/posts/authority/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Lord&#39;s Supper</title>
+      <link>//localhost:1313/posts/communion/</link>
+      <pubDate>Wed, 23 Apr 2025 18:35:33 -0400</pubDate>
+      <guid>//localhost:1313/posts/communion/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://cdn11.bigcommerce.com/s-e49v9azv2t/images/stencil/1280x1280/products/292/1029/WCC-WineWafer_DoubleStack__10481.1692282654.1280.1280__92113.1719806502.jpg?c=1&#34; alt=&#34;Prepackaged Communion Elemenets&#34; title=&#34;Prepackaged Communion Elemenets&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Eating and drinking are central to primitive and modern fellowship. There is one meal that we esteem most highly: the Lord&amp;rsquo;s Supper. It has become a formalized and ritualistic affair — so lacking in physical sustinence that it is more gesture than literal meal. When partaking of the Supper, members of the Church mirror Jesus&amp;rsquo; actions in Mark 14:22-26 with emblems of bread and drink while meditating on some aspect of the crucifixion.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Eldership</title>
       <link>//localhost:1313/posts/eldership/</link>

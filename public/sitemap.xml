@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/authority/</loc>
+    <lastmod>2025-04-26T10:39:39-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-04-20T13:13:26-04:00</lastmod>
+    <lastmod>2025-04-26T10:39:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-04-26T10:39:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-04-26T10:39:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/untagged/</loc>
+    <lastmod>2025-04-26T10:39:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/faith/</loc>
+    <lastmod>2025-04-23T18:35:33-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/communion/</loc>
+    <lastmod>2025-04-23T18:35:33-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/eldership/</loc>
     <lastmod>2025-04-06T18:35:33-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-04-06T18:35:33-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-04-06T18:35:33-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/untagged/</loc>
-    <lastmod>2025-04-06T18:35:33-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/faith/</loc>
-    <lastmod>2025-04-05T16:51:20-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/workbench/</loc>
     <lastmod>2025-04-05T16:51:20-04:00</lastmod>
