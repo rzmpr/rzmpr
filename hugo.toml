@@ -1,7 +1,7 @@
 baseurl      = "localhost"
 ##title        = "TestA"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hello-friend-ng-rc"
 pagination.pagerSize     = 10
 
 [params]
