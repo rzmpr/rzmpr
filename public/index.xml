@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Portfolio and Blog</title>
+    <title>&amp;#949;&amp;#953;&amp;#962; &amp;#964;&amp;#8049; &amp;#963;&amp;#954;&amp;#8057;&amp;#964;&amp;#959;&amp;#962; on R. Cain</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Personal Portfolio and Blog</description>
+    <description>Recent content in &amp;#949;&amp;#953;&amp;#962; &amp;#964;&amp;#8049; &amp;#963;&amp;#954;&amp;#8057;&amp;#964;&amp;#959;&amp;#962; on R. Cain</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 26 Apr 2025 10:39:39 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 20:05:44 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>//localhost:1313/portfolio/example/</link>
+      <pubDate>Thu, 01 May 2025 20:05:44 -0400</pubDate>
+      <guid>//localhost:1313/portfolio/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Equality of Sins</title>
+      <link>//localhost:1313/posts/equality-of-sins/</link>
+      <pubDate>Thu, 01 May 2025 19:13:47 -0400</pubDate>
+      <guid>//localhost:1313/posts/equality-of-sins/</guid>
+      <description>&lt;p&gt;A coworker was sharing some of his faith-related questions the other day and mentioned that he had been discussing them with a mutual friend. Our friend apparently stated that all sin is equally bad, to which my coworker responded with disbelief. Some sins, he said, like murder, are absolutely worse than others.&lt;/p&gt;&#xA;&lt;p&gt;Does he have a point?&lt;/p&gt;&#xA;&lt;p&gt;I think so.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Authority</title>
       <link>//localhost:1313/posts/authority/</link>

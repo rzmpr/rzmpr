@@ -5,7 +5,7 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - Faith
 ---
 My church is beginning the process of searching out men to serve as new elders alongside the eldership we've had for the past 11 years. This congregation has not had to consider this issue to my knowledge for at least that long, so the sermon today started a series of studies that will refresh us on why we need an eldership and who we should look for to fill that role.
 

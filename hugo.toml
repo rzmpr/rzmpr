@@ -1,5 +1,5 @@
 baseurl      = "localhost"
-title        = "Portfolio: R. Cain"
+##title        = "TestA"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 pagination.pagerSize     = 10
@@ -13,22 +13,23 @@ pagination.pagerSize     = 10
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-  # Subtitle for home
-  homeSubtitle = "Studying Data Science and Learning R"
+# Subtitle for home
+##homeTitle = "TestB"
+##homeSubtitle = "TestC"
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
 
-  # Enable sharing buttons, if you like
-  enableSharingButtons = false
-  
-  # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = false
+# Enable sharing buttons, if you like
+enableSharingButtons = false
 
-  # Metadata mostly used in document's head
-  description = "Personal Portfolio and Blog"
-  keywords = "homepage, blog"
-  images = [""]
+# Show a global language switcher in the navigation bar
+enableGlobalLanguageMenu = false
+
+# Metadata mostly used in document's head
+##description = "TestD"
+keywords = ""
+images = [""]
 
 [taxonomies]
     category = "blog"
@@ -37,23 +38,19 @@ pagination.pagerSize     = 10
 
 [languages]
   [languages.en]
-    title = "Personal Portfolio and Blog"
+    title = "R. Cain"
+	##subtitle = "TestF"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "Personal Portfolio and Blog"
+    subtitle  = "Portfolio & Blog"
 
     [languages.en.params.logo]
-      logoText = "hello, this is ryan"
+      logoText = "walk with me!"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-  # And you can even create generic menu
+	  
 [menu]
   [[menu.main]]
     identifier = "_portfolio"

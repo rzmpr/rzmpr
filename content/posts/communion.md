@@ -55,11 +55,19 @@ In the CENI hermenutic, this is an application of _necessary inference_. The aut
 - Coming together for a meal is not unique to the Lord's Supper
 - The location, outside of a home, does not necessitate a special occasion
 
-Since it is possible that the disciples shared a meal while gathered in a communal place on Sunday (as other disciples had done and as a straight reading of this passage conveys), ==there is nothing that logically necessitates interpreting Acts 20:7 to be the singular pattern for the Lord's Supper==.
+Since it is possible that the disciples shared a meal while gathered in a communal place on Sunday (as other disciples had done and as a straight reading of this passage conveys), ==there is nothing that logically necessitates interpreting Acts 20:7 to be the singular authorized pattern for observing the Lord's Supper==.
 
-Of course, gathering on Sunday to partake of the Lord's Supper is perfectly valid as it does not violate or disregard any information we actually do have concerning its observance. 
+Of course, gathering on Sunday to partake of the Lord's Supper is perfectly valid as it does not violate or disregard any information we actually do have concerning its observance. What is likely very wrong, however, is insisting on this point of view as a matter of doctrine and condemning any deviant practice. There is simply no emphasis on when and where the Lord's Supper should be observed in the Bible. 
 
 ## Elements and Form
+
+Bread recipies and juice brands vary widely from church to church, but nearly all Churches of Christ serve some form of unleavened, unsalted host and unmixed grape juice. The bread is most diverse, ranging from homemade flatbread to storebought cracker to processed wafers. The juice is almost never white. Again, there is no discussion in the Bible relating to the composition of either element, but many Churches of Christ would argue that leavened bread and wine are sacrilegious.
+
+While it is true that Jesus' institution of the Lord's Supper occurred during Passover and certainly constituted of unleavened bread, we are under no obligation to observe Passover nor are the Corinthians instructed to hold to Old Law restrictions on leavening agents. It is a worthy tradition to mimic the actions of Jesus by using unleavened bread as he did, unless and until the tradition becomes doctrine and is used to condemn non-conformants. Concerning wine, while there is reason to believe this was not a fermented beverage, we are similarly free of Old Law requirements and not restricted by any further instruction.
+
+Form is also quite variable. Sometimes the elements are placed in trays containing individual portions to be passed around. The bread in this implementation can be presented in large pieces for members to break off their own portion, or the tray may contain bite-size wafers. Pre-packaged elements usually come in a container sealed on both ends, one side containing juice or wine and the other a processed bread portion. There is a sub-movement within the Churches of Christ whose congregants drink from one shared cup.
+
+I was raised in a tradition that served the congregation with multiple trays holding large crackers and dozens of small juice-filled cups. This is certainly not a form observed in the New Testament, but, like every other variant, it does not violate any revealed instruction.
 
 ## Method
 
